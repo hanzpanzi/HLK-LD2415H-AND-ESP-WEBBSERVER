@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 #include <SoftwareSerial.h> // Include SoftwareSerial library
 
-const char* ssid = "essid";
-const char* password = "password";
+const char* ssid = "essid"; (((chnage this your wifi)))
+const char* password = "password"; (((chnage this your passw)))
 
 ESP8266WebServer server(80);
 
